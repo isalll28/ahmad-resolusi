@@ -1,0 +1,5 @@
+RENCANA BELAJAR AHMAD
+
+- react js
+- es 6
+- node js
