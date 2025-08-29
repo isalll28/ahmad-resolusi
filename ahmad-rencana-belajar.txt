@@ -1,5 +1,6 @@
 RENCANA BELAJAR AHMAD
 
 - react js
+* untuk bagian front end
 - es 6
 - node js
